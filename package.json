@@ -1,0 +1,17 @@
+{
+	"name": "fcc-learn-npm-package-json",
+	"author": "Julian Battaglino",
+	"description": "freeCodeCamp Backend Development Apis",
+	"keywords": [ "freecodecamp", "learning", "npm" ],
+	"dependencies": {
+		"express": "^4.14.0"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://idontknow/todo.git"
+	}
+}
